@@ -57,6 +57,6 @@ https://louis-j.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80-
 <br/>
 
 ### 상기 로드맵의 내용을 참고하여 차근차근 백엔드 개발자로 되어 보려고 한다.
-### 그럼 **Internet**이란 무엇일까?
+### 이제 **Internet**이 어떻게 작동하는지부터 알아보겠다.
 
 
