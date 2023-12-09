@@ -12,8 +12,13 @@ Q1. How does the internet work?
 ===
 
 <!-- 내용 -->
+내용
 
----
+<br/>
+
+***
+
+<br/>
 
 <!-- 작업일자 -->
 #### Date : December 8, 2023
