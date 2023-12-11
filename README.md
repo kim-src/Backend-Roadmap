@@ -1,9 +1,9 @@
-<!-- 작업일자 -->
+<!-- 작성일자 -->
 <!-- 제목 -->
 <!-- 내용 -->
 
-<!-- 작업일자 -->
-#### Date : December 9, 2023
+<!-- 작성일자 -->
+#### Date : December 9, 2023 (작성중)
 
 <!-- 제목 -->
 Q1. How does the internet work?
@@ -35,12 +35,7 @@ Q1. How does the internet work?
 
 https://louis-j.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%ED%97%B7%EA%B0%88%EB%A0%A4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%8B%A8%EC%96%B4
 
-***
-<br/>
-<br/>
-<br/>
-
-<!-- 작업일자 -->
+***성일자 -->
 #### Date : December 8, 2023
 
 <!-- 제목 -->
