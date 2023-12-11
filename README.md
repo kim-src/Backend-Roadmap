@@ -3,10 +3,10 @@
 <!-- 내용 -->
 
 <!-- 작성일자 -->
-#### Date : December 9, 2023 (작성중)
+#### Date : December 9, 2023
 
 <!-- 제목 -->
-Q1. How does the internet work?
+Q1. How does the internet work? (작성중)
 ===
 <br/>
 
