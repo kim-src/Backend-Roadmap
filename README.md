@@ -3,7 +3,7 @@
 <!-- 내용 -->
 
 <!-- 작성일자 -->
-#### Date : December 9, 2023
+#### Date : December 12, 2023
 
 <!-- 제목 -->
 Q1. How does the internet work? (작성중)
@@ -11,29 +11,29 @@ Q1. How does the internet work? (작성중)
 <br/>
 
 <!-- 내용 -->
-### 인터넷은 데이터 전송을 위해 필요한 장치들의 거대한 네트워크이다.
-### 이는 사용자가 온라인 정보에 접근할 수 있게 하는 등 다양한 서비스를 제공한다.
-### 인터넷이라는 네트워크가 작동하려면 여러 시스템이 활성화 상태여야 된다.
-### 또한 상호적으로 연결된 각 시스템이
-### 최소 아래의 10가지 시스템이 정상적으로 운용된다면 네트워크가 실행된다.
+인터넷이 어떻게 작동되는지 이해하려면 먼저 인터넷이 무엇인지를 인지해야 됩니다.
+Internet이란 Inter + Network의 합성어입니다.
+그리고 Network란 Net + Work의 합성어입니다.
+그러므로 작업 공간이 이어진 상태를 네트워크 및 인터넷이라고 표현할 수 있겠습니다.
 
-를 작동시키기 위해서는 여러 시스템이 다.<br/>
+작업 공간을 PC로 가정했을 경우 작업을 하려면 PC의 전원이 켜진 상태여야 됩니다.
+전원이 켜진 상태의 PC 1대는 작업을 할 수 있는 환경입니다.
+하지만 다른 PC로 데이터를 송신하거나 타 PC의 데이터를 수신할 수 있는 환경은 아닙니다.
+따라서 전원이 켜진 PC_a 1대에서만의 작업은 인터넷이 작동된다고 할 수 없겠습니다.
+왜냐하면 다른 PC (ex PC_b, PC_c 등)들의 작업 공간과 연결되어 있지 않기 때문입니다.
 
-을 개념적으로 알기 위해서는 10가지의 개념을 인지하고 있어야 된다.<br/>
-왜냐하면 상호적으로 연결된 컴퓨터 및 장치들의 네트워크이기 때문이다.<br/>
+그렇다면 인터넷의 작동 원리는 어떻게 될까요?
 
-1. Devices and Users
-2. Protocols
-3. IP Addressing
-4. Data Packets
-5. Routers
-6. ISP (Internet Service Provider)
-7. DNS (Domain Name System)
-8. HTTP/HTTPS (Hypertext Transfer Protocol/Secure)
-9. Servers and Clients
-10. Firewalls and Security Measures
+📌 Case 1. PC들끼리의 케이블 연결
+> 서로 다른 PC끼리 연결시킬 수 있는 가장 간단한 방법은 데이터 전송이 가능한 케이블로 서로를 연결하는 것입니다.
+> 이는 인터넷 환경의 초창기 형태이며 네트워크 환경을 구축하기 위해서는 수많은 케이블이 필요하다는 단점이 있습니다.
 
-https://louis-j.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%ED%97%B7%EA%B0%88%EB%A0%A4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%8B%A8%EC%96%B4
+
+
+
+
+
+
 
 ***
 
