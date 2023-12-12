@@ -70,19 +70,21 @@
 #### Date : December 8, 2023
 
 <!-- 제목 -->
-백엔드 개발자 로드맵
+✅ 백엔드 개발자 로드맵
 ===
 <br/>
 
 <!-- 내용 -->
-### 2022년 12월 23일,
-### 구글의 개발자 Kamran Ahmed가 설립한 roadmap.sh의 백엔드 로드맵이 업로드 되었습니다.
-### 해당 로드맵은 2023년 버전으로 [https://roadmap.sh/backend](https://roadmap.sh/backend)에 업로드 된 내용입니다.
+### 📌 2022년 12월 23일,
+> 구글의 개발자 Kamran Ahmed가 설립한 roadmap.sh의 백엔드 로드맵이 업로드 되었습니다.  
+> 해당 로드맵은 2023년 버전으로 [https://roadmap.sh/backend](https://roadmap.sh/backend)에 업로드 된 내용입니다.  
+> 
+> <p align = "center"><img src = "https://github.com/Kim-src/Kimsrc/assets/150884526/950b4ac0-eb19-4ce5-9a22-47e978254f94" width = "500px"></p>
+> <br/>
+> 
+> 상기 로드맵의 내용을 참고하여 차근차근 백엔드 개발자로 되어 보려고 합니다.  
+> 이제 Internet이 어떻게 작동하는지부터 알아보겠습니다.  
 
-<p align = "center"><img src = "https://github.com/Kim-src/Kimsrc/assets/150884526/950b4ac0-eb19-4ce5-9a22-47e978254f94" width = "500px"></p>
-<br/>
-
-### 상기 로드맵의 내용을 참고하여 차근차근 백엔드 개발자로 되어 보려고 합니다.
-### 이제 **Internet**이 어떻게 작동하는지부터 알아보겠습니다.
+***
 
 
