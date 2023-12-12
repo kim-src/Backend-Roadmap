@@ -54,8 +54,14 @@
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/57d4cff7-e129-485f-afea-1dcbd3503ad7" width = "500px"></p>
 > <br/>
 > 
-> 참고로 와이파이 라우터 등과 관련된 WLAN, WAN, LAN, PAN 등은 추후 말씀드리겠습니다.
+> 참고로 와이파이 라우터 등과 관련된 WLAN, WAN, LAN, PAN 등과 관련된 글은 추후 작성하겠습니다.
 
+### 📌 Case 3. 모뎀(Modem)과 라우터의 연결
+> ㅇㅇ
+>
+> <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/2b8fa099-4759-438c-a7b0-5c47f9a36642" width = "500px"></p>
+> <br/>
+> dd  
 
 
 
