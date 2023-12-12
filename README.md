@@ -31,8 +31,9 @@ Internet이란 Inter + Network의 합성어입니다.
 
 📌 Case 2. 라우터(router)와 PC의 연결
 > 라우터는 여러 PC들의 연결을 돕는 중계 장치 역할을 합니다.
-> 라우터의 외관은 아래 이미지와 같습니다.
-> ![라우터 외관(출처: Wikipedia)](https://github.com/Kim-src/Backend/assets/150884526/c194c8fe-4bfd-4255-914d-38353934c89c)
+> 라우터의 외관은 아래 이미지와 같습니다(출처: Wikipedia).
+> <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/c194c8fe-4bfd-4255-914d-38353934c89c" width = "500px"></p>
+
 > 2010년쯤부터 와이파이(Wi-Fi) 장치가 상용화되기 시작하면서 
 
 
