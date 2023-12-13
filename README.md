@@ -99,7 +99,7 @@
 > 
 > 공유기에 연결된 컴퓨터들끼리의 네트워크 개념도는 아래와 같습니다. (출처: Mozilla)  
 > 참고로 와이파이 공유기 등 무선 연결과 관련된 내용은 추후 작성해보겠습니다.  
-> <p aling = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/48359b74-d306-4199-b486-7b7aa92a3fe7" width = "500px"></p>
+> <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/48359b74-d306-4199-b486-7b7aa92a3fe7" width = "500px"></p>
 
 <br/>
 
