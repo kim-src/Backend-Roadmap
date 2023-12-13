@@ -78,8 +78,10 @@
 
 
 ### 🔔 References
-> [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-> [CCTV 뉴스의 "WAN? WLAN? 어디에 쓰는 걸까"](https://www.cctvnews.co.kr/news/articleView.html?idxno=210852)  
+> [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+> [Youtube.Lesics](https://www.youtube.com/watch?v=x3c1ih2NJEg&t=3s)
+> [Youtube.BLASTERTECHNOLOGY](https://www.youtube.com/watch?v=Sfzo4xm5eX8)
+> [CCTV 뉴스.최형주 기자님](https://www.cctvnews.co.kr/news/articleView.html?idxno=210852)  
 
 ***
 
