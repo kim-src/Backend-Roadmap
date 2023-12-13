@@ -19,11 +19,15 @@
 >
 > <br/>
 >
-> 이 네트워크는 정의하는 데 있어 분류 기준이 다양합니다.
+> 이 네트워크 개념은 몇 가지 분류에 따라 구분됩니다.
 > 1. 규모에 따른 네트워크 분류
 > 2. 무선(wireless) 상태의 네트워크 분류
 > 3. 데이터 전송 방식에 따른 네트워크 분류
 > 4. 노드(node) 연결 형태에 따른 네트워크 분류
+> 
+> <br/>
+>
+> 이번 글에서는 규모에 따른 네트워크 분류만을 다뤄보겠습니다.
 > 
 > <br/>
 > 
@@ -34,7 +38,7 @@
 > 
 > 하지만 다른 컴퓨터로 데이터를 송신하거나 타 컴퓨터의 데이터를 수신할 수 있는 환경은 아닙니다.  
 > 따라서 전원이 켜진 컴퓨터-1 한 대에서만의 작업은 인터넷이 작동된다고 할 수 없겠습니다.  
-> 왜냐하면 다른 컴퓨터(ex 컴퓨터-2, 컴푸터-3 등)들의 작업 공간과 연결되어 있지 않기 때문입니다.  
+> 왜냐하면 다른 컴퓨터(ex 컴퓨터-2, 컴퓨터-3 등)들의 작업 공간과 연결되어 있지 않기 때문입니다.  
 
 <br/>
 
@@ -46,7 +50,12 @@
 > 서로 다른 컴퓨터끼리 연결시킬 수 있는 가장 간단한 방법은 데이터 전송이 가능한 케이블로 서로를 연결하는 것입니다.  
 > 이는 인터넷 환경의 초창기 형태이며 한 공간에 존재하는 컴퓨터들과의 데이터 전송이 가능했습니다. 
 > 그러므로 작은 규모의 인터넷이 작동했던 것입니다.   
-> 하지만 수많은 컴퓨터가 연결된 네트워크 환경을 구축하기 위해서는 무수히 많은 케이블과 공간이 필요하다는 단점이 있었습니다.  
+> 하지만 수많은 컴퓨터가 연결된 네트워크 환경을 구축하기 위해서는 무수히 많은 케이블과 공간이 필요하다는 단점이 있었습니다.
+>
+> <br/>
+> 
+> 컴퓨터들끼리 케이블을 연결한 모식도는 아래와 같습니다. (출처: Mozilla)  
+> <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/7cf0adc4-3e1f-4f1f-b986-2968a3c2f4c2" width = "500px"></p>
 <br/>
 
 ### 📌 Case 2. 라우터(Router)들끼리의 연결
@@ -67,7 +76,10 @@
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/57d4cff7-e129-485f-afea-1dcbd3503ad7" width = "500px"></p>
 > <br/>
 > 
+> 라우터에 연결된 컴퓨터들끼리의 네트워크 개념도는 아래와 같습니다. (출처: Mozilla)  
 > 참고로 와이파이 라우터 등 무선 연결과 관련된 WLAN, WAN, LAN, PAN에 대한 글은 추후 작성해보겠습니다.  
+> <p aling = "center"<img src = "https://github.com/Kim-src/Backend/assets/150884526/48359b74-d306-4199-b486-7b7aa92a3fe7" width = "500px"></p>
+<br/>
 
 ### 📌 Case 3. 모뎀(Modem)과 라우터의 연결
 > ㅇㅇ
@@ -78,10 +90,10 @@
 
 
 ### 🔔 References
-> [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
-> [Youtube.Lesics](https://www.youtube.com/watch?v=x3c1ih2NJEg&t=3s)  
-> [Youtube.BLASTERTECHNOLOGY](https://www.youtube.com/watch?v=Sfzo4xm5eX8)  
-> [CCTV 뉴스.최형주 기자님](https://www.cctvnews.co.kr/news/articleView.html?idxno=210852)  
+> 1. [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
+> 2. [Youtube.Lesics](https://www.youtube.com/watch?v=x3c1ih2NJEg&t=3s)  
+> 3. [Youtube.BLASTERTECHNOLOGY](https://www.youtube.com/watch?v=Sfzo4xm5eX8)  
+> 4. [CCTV 뉴스.최형주 기자님](https://www.cctvnews.co.kr/news/articleView.html?idxno=210852)  
 
 ***
 
