@@ -91,8 +91,8 @@
 > <br/>
 > 
 > 최근 와이파이(Wi-Fi) 공유기 장치가 보급되면서 공유기(라우터)라는 단어가 보다 익숙해지셨을 수 있습니다.  
-> 하지만 이번 글에서 말씀드리는 일반적으로 가정에서 사용되는 home router와는 수준이 다른 공유기입니다.
-> 이는 carrier class의 라우터 혹은 아래의 소형 공유기를 뜻합니다. (출처: Wikipedia)  
+> 하지만 이번 글에서 말씀드리는 일반적으로 가정에서 사용되는 home router와는 수준이 다른 공유기입니다.  
+> 상기 공유기는 carrier class의 라우터이며 아래는 소형 공유기의 외관입니다. (출처: Wikipedia)  
 > 
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/57d4cff7-e129-485f-afea-1dcbd3503ad7" width = "500px"></p>
 > <br/>
