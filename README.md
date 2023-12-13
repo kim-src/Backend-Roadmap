@@ -3,10 +3,10 @@
 <!-- 내용 -->
 
 <!-- 작성일자 -->
-#### Date : December 12, 2023
+#### Date : December 13, 2023
 
 <!-- 제목 -->
-✅ How does the internet work? (작성중)
+✅ How does the internet work?
 ===
 <br/>
 
