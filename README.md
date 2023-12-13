@@ -48,6 +48,7 @@
 > 따라서 전원이 켜진 "노드-1" 한 대에서만의 작업은 인터넷이 작동된다고 할 수 없겠습니다.  
 > 왜냐하면 다른 노드(ex "노드-2", "노드-3" 등)들의 작업 공간과 연결되어 있지 않기 때문입니다.  
 > 참고로 [노드(node)](https://en.wikipedia.org/wiki/Node_(networking)){: target="_blank"}는 컴퓨터, 스마트폰 등의 IP 주소를 보유한 모든 정보처리 장치를 의미합니다.
+<a href="https://en.wikipedia.org/wiki/Node_(networking)" target="_blank">example</a>
 
 <br/>
 
