@@ -11,6 +11,14 @@
 <br/>
 
 <!-- 내용 -->
+### 🔔 Introduction
+> 인터넷을 작동시키기 위해서는 PC 전원을 켜고 LAN 포트에 랜선을 연결하면 됩니다.  
+> PC와 연결된 랜선의 다른 끝부분은 벽면의 랜포트 또는 와이파이 라우터로 연결됩니다.  
+> 그렇다면 벽면 또는 와이파이 라우터의 랜포트의 종착 지점은 어디일까요?  
+> 이번 글에서는 인터넷의 원초적인 의미는 무엇이고 어떻게 작동되는지 알아보겠습니다.
+
+<br/>
+
 ### 📌 인터넷이란
 > 인터넷이 어떻게 작동되는지 이해하려면 먼저 인터넷이 무엇인지를 인지해야 됩니다.  
 > Internet이란 Inter + Network의 합성어이며 네트워크가 연결된 상태를 의미합니다.  
@@ -62,6 +70,7 @@
 > 
 > 컴퓨터들끼리 케이블을 연결한 모식도는 아래와 같습니다. (출처: Mozilla)  
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/7cf0adc4-3e1f-4f1f-b986-2968a3c2f4c2" width = "500px"></p>
+
 <br/>
 
 ### 📌 Case 2. 라우터(Router)끼리의 연결
@@ -90,6 +99,7 @@
 > 라우터에 연결된 컴퓨터들끼리의 네트워크 개념도는 아래와 같습니다. (출처: Mozilla)  
 > 참고로 와이파이 라우터 등 무선 연결과 관련된 내용은 추후 작성해보겠습니다.  
 > <p aling = "center"<img src = "https://github.com/Kim-src/Backend/assets/150884526/48359b74-d306-4199-b486-7b7aa92a3fe7" width = "500px"></p>
+
 <br/>
 
 ### 📌 Case 3. 모뎀(Modem)과 라우터의 연결
@@ -119,7 +129,8 @@
 > 이 모뎀의 역할은 네트워크 정보를 전화 통신 인프라에서 관리할 수 있는 정보로 변환해주는 것입니다.  
 > 컴퓨터, 라우터, 모뎀의 연결 모식도는 아래와 같습니다. (출처: Mozilla)
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/ddce0e00-fb08-40e0-bcda-7d4cd984ea8f" width = "500px"></p>
-> <br/>
+
+<br/>
 
 ### 📌 Case 4. ISP와 모뎀의 연결
 > ㅇㅇ
@@ -132,7 +143,7 @@
 > dd  
 
 
-### 🔔 References
+### 🎁 References
 > 1. [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
 > 2. [Youtube.Lesics](https://www.youtube.com/watch?v=x3c1ih2NJEg&t=3s)  
 > 3. [Youtube.BLASTERTECHNOLOGY](https://www.youtube.com/watch?v=Sfzo4xm5eX8)  
@@ -163,6 +174,13 @@
 > 상기 로드맵의 내용을 참고하여 차근차근 백엔드 개발자로 되어 보려고 합니다.  
 > 이제 Internet이 어떻게 작동하는지부터 알아보겠습니다.  
 
+<br/>
+
+### 🎁 References
+> 1. [Roadmap.sh](https://roadmap.sh/)
+
 ***
 
-
+<br/>
+<br/>
+<br/>
