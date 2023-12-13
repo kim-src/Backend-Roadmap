@@ -164,7 +164,7 @@
 <br/>
 
 <!-- 내용 -->
-### 📌 2022년 12월 23일,
+### 🔔 2022년 12월 23일,
 > 구글의 개발자 Kamran Ahmed가 설립한 roadmap.sh의 백엔드 로드맵이 업로드 되었습니다.  
 > 해당 로드맵은 2023년 버전으로 [https://roadmap.sh/backend](https://roadmap.sh/backend)에 업로드 된 내용입니다.  
 > 
@@ -176,8 +176,8 @@
 
 <br/>
 
-### 🎁 References
-> 1. [Roadmap.sh](https://roadmap.sh/)
+### 🎁 Reference
+> [Roadmap.sh](https://roadmap.sh/)  
 
 ***
 
