@@ -142,7 +142,7 @@
 > 
 > <br/>
 > 
-> 노드(node; IP 주소를 보유한 컴퓨터 등의 전자기기), 공유기(router), 모뎀(modem)이 연결된 모식도는 아래와 같습니다. (출처: Mozilla)  
+> 노드(컴퓨터 등), 공유기(router), 모뎀(modem)이 연결된 모식도는 아래와 같습니다. (출처: Mozilla)  
 > <p align = "center"><img src = "https://github.com/Kim-src/Backend/assets/150884526/ddce0e00-fb08-40e0-bcda-7d4cd984ea8f" width = "500px"></p>
 
 <br/>
