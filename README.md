@@ -39,7 +39,7 @@ HTTP는 Hypertext Transfer Protocol의 축약어입니다.
 <br/>
 
 한편 "Hypertext"가 세상에 나오기 전에는 "Text"가 자리를 잡고 있었습니다.  
-그렇다면 "Text"였던 인터넷 환경이 어떻게 "Hypertext"로 발전했을까요?  
+그렇다면 "Text"였던 인터넷 환경이 어떻게 "Hypertext"로 발전됐을까요?  
 
 <br/>
 
