@@ -43,7 +43,8 @@ HTTP는 Hypertext Transfer Protocol의 축약어입니다.
 
 ### 📌 Step 2. Text : 과거 인터넷 환경
 1990년, HTTP가 세상에 처음 등장하였고 1992년부터 보급되기 시작하였습니다.
-당시의 컴퓨터 모니터 화면은 주로 text로만 구성된 상태였습니다.
+당시의 HTTP는 좋은 기술이었지만 바로 대중화되지는 않았습니다.
+그래서 컴퓨터 모니터 화면은 주로 text로만 구성된 상태였습니다.
 이는 일명 '블루스크린'이었으며 인터넷 초창기의 모습은 아래와 같았습니다.
 
 <p align = "center"><img src = "https://github.com/Kim-src/Backend-Roadmap/assets/150884526/871f0e1e-d1d0-427c-8ff8-048771954042" width = "70%"></p>
